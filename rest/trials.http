@@ -1,0 +1,16 @@
+# GET http://192.168.99.100:8000/api/show
+
+###
+
+# GET http://192.168.99.100:8000/api/single/3
+
+###
+
+# POST http://192.168.99.100:8000/api/add
+# content-type: application/json
+
+# {
+#     "fname" : "Jared",
+#     "lname" : "Ross",
+#     "dob" : "1998-09-11"
+# }
